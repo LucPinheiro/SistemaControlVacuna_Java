@@ -97,6 +97,11 @@ El código debe cumplir el siguiente patrón:
 ---
 
 ## 🖨️ Ejemplos de salida
+- **Código:** VAedf45  
+- **Nombre:** COVID-19 vacuna Astrazeneca  
+- **P. activo:** Adenovirus de chimpancé  
+- **Farmacéutica:** AstraZeneca  
+- **Precio:** 2.9 €
 
 ### Vacuna autorizada
 
@@ -123,8 +128,3 @@ Ciclo Superior de Programación y Desarrollo Multiplataforma
 Proyecto desarrollado con fines **educativos**.
 
 
-- **Código:** VAedf45  
-- **Nombre:** COVID-19 vacuna Astrazeneca  
-- **P. activo:** Adenovirus de chimpancé  
-- **Farmacéutica:** AstraZeneca  
-- **Precio:** 2.9 €
