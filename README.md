@@ -114,11 +114,11 @@ El código debe cumplir el siguiente patrón:
 ## ✍️ Autor
 
 - **Nombre del alumno/a**
-- **Ciclo / Módulo**
 - - **Luciana Pinheiro**
+- **Ciclo / Módulo**
+
 - **Curso académico**
-- **Ciclo Superior de Programación y Desarrollo Multiplataforma**
----
+-- **Ciclo Superior de Programación y Desarrollo Multiplataforma**
 
 ## 📄 Licencia
 
