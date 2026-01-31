@@ -114,9 +114,9 @@ El código debe cumplir el siguiente patrón:
 ## ✍️ Autor
 
 - **Nombre del alumno/a**
-- **Luciana Pinheiro**
+-Luciana Pinheiro**
 - **Ciclo / Módulo**
-- **Ciclo Superior de Programación y Desarrollo Multiplataforma**
+- Ciclo Superior de Programación y Desarrollo Multiplataforma**
 
 ## 📄 Licencia
 
