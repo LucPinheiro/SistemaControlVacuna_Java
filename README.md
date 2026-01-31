@@ -1,4 +1,4 @@
-# SistemaControlVacuna_Java
+# SistemaControlVacuna: App Java
 # Práctica Vacunas 💉
 
 Proyecto académico desarrollado en **Java** para la gestión de vacunas contra el COVID-19 encargado por la **Agencia Europea del Medicamento (EMA)**.  
