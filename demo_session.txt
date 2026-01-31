@@ -1,0 +1,10 @@
+Testing EMA COVID-19 Vaccine Management System
+===============================================
+
+1. Starting Application
+2. Adding Pfizer-BioNTech vaccine
+3. Adding Moderna vaccine  
+4. Listing all vaccines
+5. Advancing Pfizer through research phases (1-4)
+6. Authorizing Pfizer vaccine
+7. Viewing final list with AUTHORIZED vaccine
